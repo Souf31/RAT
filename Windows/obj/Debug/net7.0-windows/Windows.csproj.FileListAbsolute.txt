@@ -1,0 +1,57 @@
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\Windows.csproj.AssemblyReference.cache
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\Windows.AssemblyInfoInputs.cache
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\Windows.AssemblyInfo.cs
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\Windows.csproj.CoreCompileInputs.cache
+C:\Users\saifi\Desktop\Windows RAT\Windows\bin\Debug\net7.0-windows\Windows.exe
+C:\Users\saifi\Desktop\Windows RAT\Windows\bin\Debug\net7.0-windows\Windows.deps.json
+C:\Users\saifi\Desktop\Windows RAT\Windows\bin\Debug\net7.0-windows\Windows.runtimeconfig.json
+C:\Users\saifi\Desktop\Windows RAT\Windows\bin\Debug\net7.0-windows\Windows.dll
+C:\Users\saifi\Desktop\Windows RAT\Windows\bin\Debug\net7.0-windows\Windows.pdb
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\Windows.dll
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\refint\Windows.dll
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\Windows.pdb
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\Windows.genruntimeconfig.cache
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\ref\Windows.dll
+C:\Users\saifi\Desktop\Windows RAT\Windows\bin\Debug\net7.0-windows\AForge.dll
+C:\Users\saifi\Desktop\Windows RAT\Windows\bin\Debug\net7.0-windows\AForge.Video.dll
+C:\Users\saifi\Desktop\Windows RAT\Windows\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+C:\Users\saifi\Desktop\Windows RAT\Windows\obj\Debug\net7.0-windows\Windows.csproj.CopyComplete
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\Windows.exe
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\Windows.deps.json
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\Windows.runtimeconfig.json
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\Windows.dll
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\Windows.pdb
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\AForge.dll
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\AForge.Video.dll
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.csproj.AssemblyReference.cache
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.AssemblyInfoInputs.cache
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.AssemblyInfo.cs
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.csproj.CoreCompileInputs.cache
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.csproj.CopyComplete
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.dll
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\refint\Windows.dll
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.pdb
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.genruntimeconfig.cache
+C:\Users\THIMOTHE\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\ref\Windows.dll
+C:\Users\gadea\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\Windows.exe
+C:\Users\gadea\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\Windows.deps.json
+C:\Users\gadea\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\Windows.runtimeconfig.json
+C:\Users\gadea\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\Windows.dll
+C:\Users\gadea\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\Windows.pdb
+C:\Users\gadea\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\AForge.dll
+C:\Users\gadea\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\AForge.Video.dll
+C:\Users\gadea\Documents\GitHub\RAT\Windows\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.csproj.AssemblyReference.cache
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.AssemblyInfoInputs.cache
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.AssemblyInfo.cs
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.csproj.CoreCompileInputs.cache
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.csproj.CopyComplete
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.dll
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\refint\Windows.dll
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.pdb
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\Windows.genruntimeconfig.cache
+C:\Users\gadea\Documents\GitHub\RAT\Windows\obj\Debug\net7.0-windows\ref\Windows.dll
